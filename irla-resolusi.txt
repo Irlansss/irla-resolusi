@@ -1,6 +1,7 @@
 Irla resolusi
-- Laravel in 5 days
 - Get certificate
 
 - Earn money
 - Get friends
+
+- Prolog in 1 month
