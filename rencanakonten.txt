@@ -3,5 +3,6 @@ Rencana konten
 - Bikin vidio javascript
  - es6
  - Framework javascript
+- Struktur Data Dasar
 - Interview
 - Vlog
