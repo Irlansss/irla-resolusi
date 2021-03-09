@@ -1,0 +1,7 @@
+Rencana konten
+
+- Bikin vidio javascript
+ - es6
+ - Framework javascript
+- Interview
+- Vlog
