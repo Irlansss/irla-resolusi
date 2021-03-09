@@ -4,6 +4,7 @@ Rencana konten
  - es6
  - Framework javascript
    ^ vue
+   ^ react
 - Struktur Data Dasar
 - PHP Frameworks
   ^ Laravel
